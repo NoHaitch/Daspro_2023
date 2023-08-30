@@ -2,7 +2,8 @@
 Semua program, materi dan data Dasar Pemograman  
 -> ITB STEI - Komputasi tahun 2023  
 
-## Oleh :   
-Nama : **Raden Francisco Trianto Bratadiningrat**    
-NIM TPB : **19622078**   
-NIM Jurusan : **13522091**
+## Oleh : 
+Nama : **Raden Francisco Trianto Bratadiningrat**  
+NIM : **13522091**   
+Jurusan : Teknik Informatika'22  
+Fakultas : STEI - Komputasi  
