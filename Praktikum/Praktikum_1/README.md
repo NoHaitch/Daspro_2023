@@ -1,6 +1,6 @@
 # KETERANGAN
 
-UNTUK SOAL 3, 4, dan 7 masih salah  
+UNTUK SOAL 3, 4, dan 7 masih salah
 
 ## FILE DI BAWAH INI KURANG TEPAT ATAU BELUM DIBUAT:
 
@@ -17,4 +17,3 @@ UNTUK SOAL 3, 4, dan 7 masih salah
 5. 100/100
 6. 100/100
 7. 0/120
-
