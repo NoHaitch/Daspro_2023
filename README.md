@@ -1,5 +1,5 @@
 # Mata Kuliah Dasar Pemograman 2023  
-Semua program, materi dan data Dasar Pemograman  
+Semua program, materi dan data Mata Kuliah Dasar Pemograman  
 
 ## Oleh : 
 Nama : **Raden Francisco Trianto Bratadiningrat**  
