@@ -1,6 +1,6 @@
 # KETERANGAN
 
-UNTUK SOAL 2 dan 5 masih salah walaupun <ins>**OUTPUT SUDAH SESUAI**</ins>
+UNTUK SOAL 2 dan 5 masih salah walaupun <ins>**OUTPUT SUDAH SESUAI**</ins> Test Case
 
 ## FILE DI BAWAH INI KURANG TEPAT ATAU BELUM DIBUAT:
 
