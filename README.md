@@ -4,4 +4,5 @@ Semua program, materi dan data Dasar Pemograman
 
 ## Oleh :   
 Nama : **Raden Francisco Trianto Bratadiningrat**    
-NIM : **13522091**   
+NIM TPB : **19622078**   
+NIM Jurusan : **13522091**
