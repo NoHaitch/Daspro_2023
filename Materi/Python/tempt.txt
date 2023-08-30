@@ -1,0 +1,7 @@
+function IdxPengajarMK (p : string, t : TabMatKul) → integer
+{ menghasilkan indeks di mana P ditemukan terkahir kali di T, atau 0 jika P tidak ditemukan di T, T mungkin kosong}
+KAMUS LOKAL
+      
+ALGORITMA
+        posisi ← 0
+        i transfersal [1..T[2]]

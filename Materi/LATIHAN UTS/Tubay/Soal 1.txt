@@ -1,0 +1,29 @@
+a. Jelaskan apa itu paradigma pemrograman dan sebutkan 5 contohnya!
+    Paradigma adalah sudut pandang penyelesaian suatu persoalan dengan
+    program dimana setiap persoalan memiliki pendekatan khusus untuk 
+    memecahnya.
+    contoh :
+        1. Paradigma Functional
+        2. Paradigma Imperatif
+        3. Paradigma Relasional
+        4. Paradigma Deklaratif
+        5. Paradigma Berorientasi Objek
+
+
+b. Sebutkan dan jelaskan secara singkat 5 taksonomi bahasa pemrograman!
+    1. Low Level
+        -> Bahasa Pemograman yang sulit untuk dimengerti oleh manusia tapi sangat 
+        efisien dan sangat cepat dalam melakukan prosesnya
+    2. Middle Level
+        -> Bahasa Pemograman yang agak sulit untuk dimengerti oleh manusia sebagai
+        penengah antara bahasa pemograman tinggi dan rendah dengan kecepatan yang
+        menengah juga
+    3. High Level
+        -> Bahasa Pemograman yang mudah dimengerti oleh manusia tapi tidak efesien
+        dalam menjalankan prosesnya sebab diperlukannya translator
+    4. Very High Level
+        -> Bahasa pemograman yang dapat mengerti bahasa manusia dan langsung mentranslate 
+        dan melakukannya
+    5. Higher Level
+        -> Bahasa pemograman tanpa bahasa penengah, tapi langsung dari manusia seperti pikiran 
+        dan dimengerti oleh mesin untuk dilaksanakan, tapi masih belum ada realnya
